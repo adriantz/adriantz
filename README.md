@@ -5,8 +5,6 @@
 
 <h2>📈 Stats<h2>
 
-<hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
-
 ![](https://github-readme-stats.vercel.app/api?username=adriantz&show_icons=true)
 
 
