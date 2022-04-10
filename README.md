@@ -1,14 +1,28 @@
-### Hello welcome to my profile. 👋
+<h1 align="center">ADRIANTZ's Profile</h1>
 
-- 🔭 I’m currently working on TZ-Community (A FiveM Shop)
-- 💬 Ask me about anything, and im here to help out or talk to.
+<div align="center">
 
-<h3 align="center">Profile Stats</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername" alt="yourusername" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="yourusername" /></p>
 
-## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
+[![Discord](https://i.imgur.com/UZTVSo6.png)](https://discordapp.com/users/665890677292400660)
 
-- 📫 You can contact me though...
+<h2>📈 Stats<h2>
+
+<hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
+
+![](https://github-readme-stats.vercel.app/api?username=kilichi&show_icons=true)
+
+
+<h2>🧑‍💻 Languages and tools<h2>
+
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kilichi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>🧠 Best repositories<h2>
+
+<hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=kilichi&repo=Kl_HudV2)](https://github.com/Kilichi/Kl_HudV2)
+
+<div>
