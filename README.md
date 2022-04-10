@@ -20,3 +20,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adriantz&repo=TZ-HUDV1)](https://github.com/adriantz/TZ-HUDV1)
 
 <div>
+
+<h2>🚀 TZ-Community<h2>
+
+https://discord.gg/K4e3J9Rg2X
