@@ -17,8 +17,6 @@
 
 <h2>🔥 Best repositories<h2>
 
-<hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adriantz&repo=TZ-HUDV1)](https://github.com/adriantz/TZ-HUDV1)
 
 <div>
