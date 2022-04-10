@@ -3,10 +3,6 @@
 <div align="center">
 
 
-
-
-[![Discord](https://i.imgur.com/UZTVSo6.png)](https://discordapp.com/users/665890677292400660)
-
 <h2>📈 Stats<h2>
 
 <hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
